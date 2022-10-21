@@ -1,16 +1,16 @@
 {
-"name": "barberpro",
-"theme": "barber pro",
-"version": "4.10.3",
-"description": "barber pro สมัครเว็บพนันเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
-"keywords": [
-"barber pro",
-"barber pro เครดิตฟรี",
-"barber pro ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/barberpro",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "barberpro",
+  "theme": "barber pro",
+  "version": "4.11.0",
+  "description": "barber pro สมัครเว็บพนันเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+  "keywords": [
+    "barber pro",
+    "barber pro เครดิตฟรี",
+    "barber pro ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/barberpro",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
